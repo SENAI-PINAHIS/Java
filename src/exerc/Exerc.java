@@ -103,7 +103,7 @@ public class Exerc {
     public static void ex8(){
         System.out.println("Digite seu numero ");
         int num=scan.nextInt();
-        System.out.println("O seu quadrado é "+num*num);
+        System.out.println("O seu quadrado é toma no cu  "+num*num);
     }
     public static void ex9(){
         System.out.println("");
