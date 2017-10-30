@@ -15,7 +15,9 @@ public class Testes {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Wallyson maconheiro");
+        int a;
+        int b;
+        System.out.println("A");
         // TODO code application logic here
     }
     
