@@ -17,7 +17,7 @@ public class Testes {
     public static void main(String[] args) {
         int a;
         int b;
-        System.out.println("A");
+        System.out.println("Jose é legal");
         // TODO code application logic here
     }
     
