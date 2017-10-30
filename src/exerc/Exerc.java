@@ -17,7 +17,7 @@ public class Exerc {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        ex2();
+        ex6();
         // TODO code application logic here
     }
     public static void ex1(){
@@ -95,9 +95,19 @@ public class Exerc {
         
     }
     public static void ex6(){
-        System.out.println("");
+        int cont=0;
+        int n1, n2,n3;
+        System.out.println("Digite a nota 1");
+        n1=scan.nextInt();
+        System.out.println("Digite a nota 2");
+        n2=scan.nextInt();
+        System.out.println("Digite a nota 3");
+        n3=scan.nextInt();
+        int prod=(n1*1)+(n2*2)+(n3*3);
+        System.out.println("A media é "+prod/6);
     }
     public static void ex7(){
+        System.out.println("d");
         
     }
     public static void ex8(){
